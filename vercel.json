@@ -7,6 +7,11 @@
       "source": "/whatsapp",
       "destination": "https://whatsapp.com/channel/0029Vb8Etv696H4VwlKDP439",
       "permanent": false
+    },
+    {
+      "source": "/form",
+      "destination": "https://forms.gle/u5pGTJph7CXrVsFc9",
+      "permanent": false
     }
   ]
 }
